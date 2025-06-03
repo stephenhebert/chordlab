@@ -1,0 +1,58 @@
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 10000 1137"
+        class="absolute inset-0"
+      >
+        <!-- outline -->
+        <!-- <path d="M 0,0 10000,0" stroke="black" stroke-width="15" />
+        <path d="M 0,1137 10000,1137" stroke="black" stroke-width="15" />
+        <path d="M 0,0 0,1137" stroke="black" stroke-width="15" />
+        <path d="M 10000,0 10000,1137" stroke="black" stroke-width="15" /> -->
+
+        <!-- nut -->
+        <!-- <path d="M 20,150 20,990" stroke="black" stroke-width="15" />
+        <path d="M 75,150 75,990" stroke="black" stroke-width="15" /> -->
+
+        <!-- frets -->
+        <path d="M 820,140 820,1000" stroke="black" stroke-width="15" />
+        <path d="M 1520,130 1520,1010" stroke="black" stroke-width="15" />
+        <path d="M 2176,120 2176,1020" stroke="black" stroke-width="15" />
+        <path d="M 2800,110 2800,1030" stroke="black" stroke-width="15" />
+        <path d="M 3390,100 3390,1040" stroke="black" stroke-width="15" />
+        <path d="M 3948,92 3948,1048" stroke="black" stroke-width="15" />
+        <path d="M 4473,84 4473,1056" stroke="black" stroke-width="15" />
+        <path d="M 4968,76 4968,1064" stroke="black" stroke-width="15" />
+        <path d="M 5432,69 5432,1071" stroke="black" stroke-width="15" />
+        <path d="M 5874,62 5874,1078" stroke="black" stroke-width="15" />
+        <path d="M 6288,56 6288,1084" stroke="black" stroke-width="15" />
+        <path d="M 6682,50 6682,1090" stroke="black" stroke-width="15" />
+        <path d="M 7056,44 7056,1096" stroke="black" stroke-width="15" />
+        <path d="M 7406,39 7406,1101" stroke="black" stroke-width="15" />
+        <path d="M 7735,34 7735,1106" stroke="black" stroke-width="15" />
+        <path d="M 8044,30 8044,1110" stroke="black" stroke-width="15" />
+        <path d="M 8338,26 8338,1114" stroke="black" stroke-width="15" />
+        <path d="M 8616,22 8616,1118" stroke="black" stroke-width="15" />
+        <path d="M 8880,19 8880,1121" stroke="black" stroke-width="15" />
+        <path d="M 9130,16 9130,1124" stroke="black" stroke-width="15" />
+        <path d="M 9362,13 9362,1127" stroke="black" stroke-width="15" />
+        <path d="M 9580,11 9580,1129" stroke="black" stroke-width="15" />
+        <path d="M 9790,9 9790,1131" stroke="black" stroke-width="15" />
+        <path d="M 9986,7 9986,1133" stroke="black" stroke-width="15" />
+
+        <!-- inlays -->
+        <circle cx="1850" cy="572" r="60" fill="black" />
+        <circle cx="3095" cy="572" r="60" fill="black" />
+        <circle cx="4215" cy="572" r="60" fill="black" />
+        <circle cx="5200" cy="572" r="60" fill="black" />
+        <circle cx="6085" cy="390" r="60" fill="black" />
+        <circle cx="6085" cy="755" r="60" fill="black" />
+        <circle cx="7230" cy="572" r="60" fill="black" />
+        <circle cx="7894" cy="572" r="60" fill="black" />
+      
+        <!-- <path d="M 3,4 3,12" stroke="black" stroke-width="1" /> -->
+
+        <g>
+          <circle cx="1850" cy="650" r="90" fill="white" stroke="black" stroke-width="15" />
+          <text x="1850" y="650" class="text-90px" text-anchor="middle" alignment-baseline='central'>My</text>
+        </g>
+      </svg>

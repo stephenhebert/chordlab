@@ -1,0 +1,200 @@
+<svg id="svg10264" version="1.1" viewBox="0 0 44.207 9.2672" xmlns="http://www.w3.org/2000/svg">
+  <!-- <defs id="defs9944">
+    <style id="style9942" type="text/css"><![CDATA[
+	.string{stroke:rgb(0,0,0);stroke-width:0.2%;}
+	.edge{stroke:rgb(0,0,0);stroke-width:0.2%;}
+	.fret{stroke:rgb(0,0,0);stroke-linecap:round;stroke-width:0.2%;}
+	.nut{stroke:rgb(0,0,0);stroke-linecap:round;stroke-width:1%;}
+
+]]></style>
+  </defs> -->
+  <g id="underlay" transform="translate(.44331)">
+    <g id="frets">
+      <path id="path9950" class="fret" d="m3.8098 1.1182v2.2736m0-9.92e-5v4.7573" style="stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9982" class="fret" d="m39.902 0.18277v8.9017" style="stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9952" class="fret" d="m7.1682 1.0312v2.3257m0 9.92e-5v3.8299m0 9.93e-5v1.0491" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path10036" class="fret" d="m43.678 1.3232v1.6552m0-9.93e-5v1.6552m0 3.3104v1.2384m0-9.0976v1.2384m0 3.3103v1.6552m0-9.93e-5v1.6551" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9986" class="fret" d="m42.492 0.11562v1.2323m0-3.96e-5v7.8037" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9984" class="fret" d="m41.234 0.14823v8.9708" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9980" class="fret" d="m38.489 0.21937v1.2114m0 1.97e-5v1.6014m0 9.93e-5v4.8041m0 9.93e-5v1.2114" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9978" class="fret" d="m36.993 0.25814v1.2037m0 4.96e-5v7.5472" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9976" class="fret" d="m35.409 0.29923v1.1955m0 4.96e-5v3.1388m0 9.92e-5v3.1388m0 9.92e-5v1.1955" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9974" class="fret" d="m33.73 0.34274v8.5818" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9972" class="fret" d="m31.951 0.38886v1.1776m0 2.97e-5v7.3119" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9970" class="fret" d="m30.065 0.43771v1.1678m0 1e-5v1.514m0 9.92e-5v5.7098" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9968" class="fret" d="m28.068 0.48947v1.1574m0 4.96e-5v1.4934m0-9.92e-5v4.4801m0-9.93e-5v1.1574" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9966" class="fret" d="m25.953 0.5443v2.618m0-9.93e-5v4.4143m0-9.93e-5v1.1465" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9964" class="fret" d="m23.711 0.6024v1.1348m0 5.95e-5v2.8962m0 9.92e-5v2.8962m0 9.92e-5v1.1348" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9962" class="fret" d="m21.336 0.66395v1.1225m0 3.97e-5v2.847m0 9.92e-5v2.847m0 9.92e-5v1.1225" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9960" class="fret" d="m18.82 0.72916v1.1095m0 2.98e-5v1.3975m0-9.93e-5v2.795m0-9.93e-5v2.507" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9958" class="fret" d="m16.155 0.79825v1.0957m0 1e-5v6.575" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9956" class="fret" d="m13.33 0.87145v1.081m0 4.96e-5v6.4432" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path9954" class="fret" d="m10.338 0.94901v2.3751m0-9.93e-5v4.9942" style="fill-opacity:0;stroke-width:.16546;stroke:#8c8c8c"/>
+    </g>
+    <g id="edges">
+      <path id="top" class="edge" d="m0.2517 1.2104 43.51-1.1277" style="fill:none;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="bottom" class="edge" d="m0.2517 8.0568 43.51 1.1277" style="fill:none;stroke-width:.16546;stroke:#8c8c8c"/>
+    </g>
+    <g id="strings">
+      <path id="path10432" class="string" d="m0.2517 1.6212 43.51-1.1277" style="fill:none;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path10435" class="string" d="m0.2517 2.8261 43.51-0.67664" style="fill:none;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path10438" class="string" d="m0.2517 4.0311 43.51-0.22555" style="fill:none;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path10450" class="string" d="m0.2517 5.2361 43.51 0.22552" style="fill:none;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path10447" class="string" d="m0.2517 6.4411 43.51 0.67665" style="fill:none;stroke-width:.16546;stroke:#8c8c8c"/>
+      <path id="path10444" class="string" d="m0.2517 7.646 43.51 1.1277" style="fill:none;stroke-width:.16566;stroke:#8c8c8c"/>
+    </g>
+    <g id="inlays">
+      <circle id="circle19005" cx="8.7427" cy="4.6729" r=".28808" style="fill:#8c8c8c"/>
+      <ellipse id="circle19007" cx="14.739" cy="4.6405" rx=".28793" ry=".28808" style="fill:#8c8c8c"/>
+      <ellipse id="circle19009" cx="20.113" cy="4.6405" rx=".28793" ry=".28808" style="fill:#8c8c8c"/>
+      <ellipse id="circle19011" cx="24.84" cy="4.6405" rx=".28793" ry=".28808" style="fill:#8c8c8c"/>
+      <ellipse id="circle19013" cx="29.087" cy="3.1625" rx=".28793" ry=".28808" style="fill:#8c8c8c"/>
+      <ellipse id="circle19015" cx="29.087" cy="6.181" rx=".28793" ry=".28808" style="fill:#8c8c8c"/>
+      <ellipse id="circle19017" cx="34.582" cy="4.6187" rx=".28793" ry=".28808" style="fill:#8c8c8c"/>
+      <ellipse id="circle19019" cx="37.768" cy="4.5934" rx=".28793" ry=".28808" style="fill:#8c8c8c"/>
+    </g>
+    <path id="path10200" class="nut" transform="matrix(2.5358 0 0 4.1288 28.995 -46.941)" d="m-11.335 13.041v0.23125m0-0.50625v0.275m0-0.55v0.275m0-0.55v0.275m0-0.55v0.275m0-0.506v0.23125" style="stroke-width:.19855;stroke:#8c8c8c"/>
+  </g>
+  <g id="overlay" transform="translate(.44331)">
+    <g id="notes" transform="translate(-6.7322 2.3761)" style="stroke-width:.10419">
+      <g id="g22619" transform="translate(1.2951 .083557)" style="stroke-width:.10419">
+        <g id="g19025" transform="matrix(.0060058 0 0 .0060043 -2.303 1.4095)" style="stroke-width:17.35">
+          <circle id="circle19021" cx="1850" cy="650" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22558" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4095)" style="stroke-width:17.35">
+          <circle id="circle22556" cx="2430.4" cy="663.51" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22587" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4095)" style="stroke-width:17.35">
+          <circle id="circle22585" cx="1325.7" cy="636.89" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22591" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4963)" style="stroke-width:17.35">
+          <circle id="circle22589" cx="2967.8" cy="666.45" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22595" transform="matrix(.0060058 0 0 .0060043 -2.3247 1.4529)" style="stroke-width:17.35">
+          <circle id="circle22593" cx="3472.5" cy="686.12" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22599" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4529)" style="stroke-width:17.35">
+          <circle id="circle22597" cx="3964" cy="699.23" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22603" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4095)" style="stroke-width:17.35">
+          <circle id="circle22601" cx="4430" cy="715.96" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+      </g>
+      <g id="g22649" transform="translate(1.2951 .083557)" style="stroke-width:.10419">
+        <g id="g22623" transform="matrix(.0060058 0 0 .0060043 -2.303 .19115)" style="stroke-width:17.35">
+          <circle id="circle22621" cx="1850" cy="650" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22627" transform="matrix(.0060058 0 0 .0060043 -2.3464 .16944)" style="stroke-width:17.35">
+          <circle id="circle22625" cx="2430.4" cy="663.51" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22631" transform="matrix(.0060058 0 0 .0060043 -2.3464 .16944)" style="stroke-width:17.35">
+          <circle id="circle22629" cx="1325.7" cy="636.89" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22635" transform="matrix(.0060058 0 0 .0060043 -2.3464 .19115)" style="stroke-width:17.35">
+          <circle id="circle22633" cx="2967.8" cy="666.45" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22639" transform="matrix(.0060058 0 0 .0060043 -2.3247 .12603)" style="stroke-width:17.35">
+          <circle id="circle22637" cx="3472.5" cy="686.12" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22643" transform="matrix(.0060058 0 0 .0060043 -2.3464 .082617)" style="stroke-width:17.35">
+          <circle id="circle22641" cx="3964" cy="699.23" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22647" transform="matrix(.0060058 0 0 .0060043 -2.3247 .060911)" style="stroke-width:17.35">
+          <circle id="circle22645" cx="4422.8" cy="712.34" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+      </g>
+      <g id="g22679" transform="translate(1.2951 .083557)" style="stroke-width:.10419">
+        <g id="g22653" transform="matrix(.0060058 0 0 .0060043 -2.303 -1.0433)" style="stroke-width:17.35">
+          <circle id="circle22651" cx="1850" cy="650" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22657" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.0867)" style="stroke-width:17.35">
+          <circle id="circle22655" cx="2430.4" cy="659.9" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22661" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.0867)" style="stroke-width:17.35">
+          <circle id="circle22659" cx="1325.7" cy="636.89" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22665" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.0867)" style="stroke-width:17.35">
+          <circle id="circle22663" cx="2967.8" cy="666.45" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22669" transform="matrix(.0060058 0 0 .0060043 -2.3247 -1.2169)" style="stroke-width:17.35">
+          <circle id="circle22667" cx="3472.5" cy="686.12" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22673" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.2821)" style="stroke-width:17.35">
+          <circle id="circle22671" cx="3964" cy="699.23" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22677" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.3255)" style="stroke-width:17.35">
+          <circle id="circle22675" cx="4422.8" cy="712.34" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+      </g>
+      <g id="g22709" transform="matrix(1 0 0 -1 1.2951 4.5136)" style="stroke-width:.10419">
+        <g id="g22683" transform="matrix(.0060058 0 0 .0060043 -2.303 -1.0433)" style="stroke-width:17.35">
+          <circle id="circle22681" cx="1850" cy="650" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22687" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.0867)" style="stroke-width:17.35">
+          <circle id="circle22685" cx="2430.4" cy="659.9" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22691" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.0867)" style="stroke-width:17.35">
+          <circle id="circle22689" cx="1325.7" cy="636.89" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22695" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.0867)" style="stroke-width:17.35">
+          <circle id="circle22693" cx="2967.8" cy="666.45" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22699" transform="matrix(.0060058 0 0 .0060043 -2.3247 -1.2169)" style="stroke-width:17.35">
+          <circle id="circle22697" cx="3472.5" cy="686.12" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22703" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.2821)" style="stroke-width:17.35">
+          <circle id="circle22701" cx="3964" cy="699.23" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22707" transform="matrix(.0060058 0 0 .0060043 -2.3464 -1.3255)" style="stroke-width:17.35">
+          <circle id="circle22705" cx="4422.8" cy="712.34" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+      </g>
+      <g id="g22739" transform="matrix(1 0 0 -1 1.2661 4.5555)" style="stroke-width:.10419">
+        <g id="g22713" transform="matrix(.0060058 0 0 .0060043 -2.303 .19115)" style="stroke-width:17.35">
+          <circle id="circle22711" cx="1850" cy="650" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22717" transform="matrix(.0060058 0 0 .0060043 -2.3464 .16944)" style="stroke-width:17.35">
+          <circle id="circle22715" cx="2430.4" cy="663.51" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22721" transform="matrix(.0060058 0 0 .0060043 -2.3464 .16944)" style="stroke-width:17.35">
+          <circle id="circle22719" cx="1325.7" cy="636.89" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22725" transform="matrix(.0060058 0 0 .0060043 -2.3464 .19115)" style="stroke-width:17.35">
+          <circle id="circle22723" cx="2967.8" cy="666.45" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22729" transform="matrix(.0060058 0 0 .0060043 -2.3247 .12603)" style="stroke-width:17.35">
+          <circle id="circle22727" cx="3472.5" cy="686.12" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22733" transform="matrix(.0060058 0 0 .0060043 -2.3464 .082617)" style="stroke-width:17.35">
+          <circle id="circle22731" cx="3964" cy="699.23" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22737" transform="matrix(.0060058 0 0 .0060043 -2.3247 .060911)" style="stroke-width:17.35">
+          <circle id="circle22735" cx="4422.8" cy="712.34" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+      </g>
+      <g id="g22769" transform="matrix(1 0 0 -1 1.2807 4.5925)" style="stroke-width:.10419">
+        <g id="g22743" transform="matrix(.0060058 0 0 .0060043 -2.303 1.4095)" style="stroke-width:17.35">
+          <circle id="circle22741" cx="1850" cy="650" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22747" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4095)" style="stroke-width:17.35">
+          <circle id="circle22745" cx="2430.4" cy="663.51" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22751" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4095)" style="stroke-width:17.35">
+          <circle id="circle22749" cx="1325.7" cy="636.89" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22755" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4963)" style="stroke-width:17.35">
+          <circle id="circle22753" cx="2967.8" cy="666.45" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22759" transform="matrix(.0060058 0 0 .0060043 -2.3247 1.4529)" style="stroke-width:17.35">
+          <circle id="circle22757" cx="3472.5" cy="686.12" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22763" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4529)" style="stroke-width:17.35">
+          <circle id="circle22761" cx="3964" cy="699.23" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+        <g id="g22767" transform="matrix(.0060058 0 0 .0060043 -2.3464 1.4095)" style="stroke-width:17.35">
+          <circle id="circle22765" cx="4430" cy="715.96" r="90" fill="#fff" stroke="#000" stroke-width="15" style="stroke-width:17.35"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

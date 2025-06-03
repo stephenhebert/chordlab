@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="csrf-token" content="">
+    <meta name="theme-color" content="#FFFFFF"/>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="shortcut icon" href="https://www.gtdb.org/img/favicon.png">
+    <title>    404 Not Found
+</title>
+            <meta name="description" content="The largest database for alternative guitar tunings on the internet. GTDB has been gathering and publishing information, chords, scales, tabs and now videos on different guitar tunings since 2009">
+<meta name="keywords" content="guitar tuner, tuners, online tuner, online guitar tuner, acoustic guitar tuner, guitar tunings, database, guitar tab, tablature, Chords, Tabs">
+<meta property="og:title" content="Guitar Tunings Database" />
+<meta property="og:description" content="The largest database for alternative guitar tunings on the internet. GTDB has been gathering and publishing information, chords, scales, tabs and now videos on different guitar tunings since 2009" />
+
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Guitar Tunings Database","description":"The largest database for alternative guitar tunings on the internet. GTDB has been gathering and publishing information, chords, scales, tabs and now videos on different guitar tunings since 2009"}</script>
+                <link rel="apple-touch-icon" href="/images/apple-touch-icon.png"/>
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-touch-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-180x180.png"/>
+
+    
+    
+    <style type="text/css">@font-face {font-family:Oswald;font-style:normal;font-weight:500;src:url(/cf-fonts/v/oswald/5.0.18/latin-ext/wght/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Oswald;font-style:normal;font-weight:500;src:url(/cf-fonts/v/oswald/5.0.18/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Oswald;font-style:normal;font-weight:500;src:url(/cf-fonts/v/oswald/5.0.18/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Oswald;font-style:normal;font-weight:500;src:url(/cf-fonts/v/oswald/5.0.18/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Oswald;font-style:normal;font-weight:500;src:url(/cf-fonts/v/oswald/5.0.18/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}</style>
+
+    <link href="/css/app.css?id=4bbc3c0735583de6cc586037848602f1" rel="stylesheet">
+                            <link href="/css/chords.css?ver=1668876301" rel="stylesheet">
+            <link href="/css/chords-small.css?ver=1664086635" rel="stylesheet">
+            
+    
+    <link href="https://www.gtdb.org/css/lity.min.css?ver=1664086635" rel="stylesheet">
+
+    
+
+
+
+
+        
+    <script src="/js/gtdb/variables.js?ver=1664086636"></script>
+    <script src="/js/gtdb/functions.js?ver=1664086636"></script>
+
+        <script src="/js/lazysizes.min.js"></script>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6401028581815505" crossorigin="anonymous"></script>
+        <script>
+        // It's best to inline this in `head` to avoid FOUC (flash of unstyled content) when changing pages or themes
+        if (
+            localStorage.getItem('color-theme') === 'dark' ||
+            (!('color-theme' in localStorage) &&
+                window.matchMedia('(prefers-color-scheme: dark)').matches)
+        ) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    </script>
+    <style>
+        .gdpr {
+            display: none;
+            width: 100%;
+            text-align: left;
+            z-index: 1050!important;
+            padding: 35px;
+        }
+        .gdpr a {
+            /*color: #2a234f;*/
+        }
+        .gdpr.active {
+            display: block;
+        }
+        .gdpr p {
+            display: inline-block;
+            vertical-align: middle;
+            margin-bottom: 20px;
+        }
+        .gdpr--actions {
+            /*display: inline-block;*/
+            /*vertical-align: middle;*/
+            /*margin-left: 10px;*/
+            /*position: absolute;*/
+            /*top: 50%;*/
+            /*right: 35px;*/
+            /*transform: translate(0, -50%);*/
+        }
+        .gdpr--button {
+            display: inline-block;
+            vertical-align: middle;
+            padding: 8px 5px;
+            border: none;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 600;
+            min-width: 100px;
+            /*border-radius: 35px;*/
+            outline: none;
+            text-align: center;
+        }
+        .gdpr--button:hover {
+            background: rgba(80, 255, 0, 0.38);
+            color: white;
+        }
+        .gdpr--button + .gdpr--button {
+        }
+
+        @media only screen and (max-width:767px) {
+            .gdpr {
+                padding: 20px;
+            }
+            .gdpr--actions {
+                /*position: relative;*/
+                /*top: 0;*/
+                /*right: 0;*/
+                /*transform: none;*/
+                /*display: block;*/
+                /*margin: 0;*/
+                /*text-align: center;*/
+            }
+        }
+    </style>
+
+            <script src="https://www.google.com/recaptcha/api.js?render=6Lc7D94UAAAAAIj1Xc3el4V5daF-BxK1Gb70GFtl"></script><script>
+                    var csrfToken = document.head.querySelector('meta[name="csrf-token"]');
+                  grecaptcha.ready(function() {
+                      grecaptcha.execute('6Lc7D94UAAAAAIj1Xc3el4V5daF-BxK1Gb70GFtl', {action: 'homepage'}).then(function(token) {
+                        
+                fetch('http://www.gtdb.org/biscolab-recaptcha/validate?token=' + token, {
+                    headers: {
+                        "X-Requested-With": "XMLHttpRequest",
+                        "X-CSRF-TOKEN": csrfToken.content
+                    }
+                })
+                .then(function(response) {
+                   	callbackThen(response)
+                })
+                .catch(function(err) {
+                    callbackCatch(err)
+                });
+                      });
+                  });
+		     </script>
+    </head>
+<body class="bg-gray-100 dark:bg-gray-800 dark:text-gray-300">
+<div class="gdpr fixed-top h-full flex items-center justify-center bg-gray-800/90 !z-[1060] overflow-y-auto">
+    <div class="max-w-lg mx-auto bg-gray-800 text-gray-400 p-2 sm:p-8 border-2 border-gray-700 sm:border-gray-500 text-xs">
+        <div>
+            <p class="text-sm">
+                We value your privacy and want to make sure you understand how we use cookies on our website. We use session cookies to help us deliver our services and provide a better user experience. We also use Google Ads to serve personalized advertisements.
+            </p>
+            <p class="text-sm">
+                By clicking 'Agree,' you are giving us your consent to use these cookies. You can withdraw your consent at any time by adjusting your cookie preferences in your browser settings.
+            </p>
+            <p class="text-sm">
+                For more information about the types of cookies we use and how we process your personal data, please refer to our Privacy Policy.
+            </p>
+        </div>
+        <div class="gdpr--actions mt-8 flex flex-wrap justify-between gap-2">
+                <a href="/privacy" class="gdpr--button bg-orange-600 text-white">Privacy</a>
+            <button class="gdpr--button js-gdpr-ok bg-green-600 text-white">Agree</button>
+        </div>
+    </div>
+</div>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXXRDGD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="app dark:bg-gray-800 dark:text-gray-300">
+    <div class="max-w-7xl mx-auto px-2">
+        <nav class="navbar navbar-expand-lg navbar-light bg-transparent pt-0 dark:text-gray-300">
+    <a class="navbar-brand dark:text-gray-300" href="/" title="Guitar Tunings Database">
+        <span id="text_logo" title="Guitar Tunings Database">GTDB</span>
+        <br>
+        <div class="tab-line dark:text-gray-300">Guitar Tunings Database</div>
+    </a>
+    <div class="lemon_sm" style="display: none;">
+        <a href="https://www.lemonsqueezyrecords.com/?utm_source=gtdb.org&utm_medium=website-megamenu&refUrl=http://www.gtdb.org/sounds/acoustic-guitar/440/A6.mp3" target="_blank" rel="noopener"><img data-src="/images/lemon_sm.png" style="width: 50px; height: 50px;" data-sizes="auto" class="img-fluid lazyload" alt="Lemon Squeezy Records">
+        </a>
+    </div>
+    <button class="navbar-toggler dark:bg-gray-500" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="w-full"></ul>
+        <ul class="navbar-nav">
+
+            <li class="nav-item dropdown megamenu-li mr-5">
+                <a class="nav-link dropdown-toggle nav_dropdown_tunings" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Tunings
+                </a>
+                <div class="dropdown-menu megamenu bg-white dark:bg-gray-700 shadow-sm rounded border dark:border-gray-500 p-4 mb-16" aria-labelledby="navbarDropdown">
+                    <div class="row">
+
+                        <div class="col-md-4 mb-4">
+                            <h4 class="mb-3 dark:text-gray-300 text-2xl">Your Links</h4>
+                            <a class="dropdown-item megalink dark:text-gray-300 nav_tag_your_chords" href="/dashboard" title="Your saved chords, scales and videos">Dashboard</a>
+                            <h4 class="mb-3 mt-3 dark:text-gray-300 text-2xl">Site Links</h4>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/tunings">All Guitar Tunings</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/chord-sheets" title="Generate chords for any tuning">Generate Chords</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/scales" title="Find any scale for any tuning">Scales</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/tuning/submit">Submit Tuning</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/guitar-tuner">Guitar Tuners</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/tab">Tab</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/artists">Artists</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/videos">Videos</a>
+
+                            <div class="dropdown-divider"></div>
+                            <h4 class="mb-3 mt-3 dark:text-gray-300 text-2xl">Producer Tools</h4>
+                            <a class="dropdown-item megalink dark:text-gray-300 flex justify-start" href="/producer-tools/note-frequencies">
+                                <img data-src="/images/freqency-icon.png" data-sizes="auto" class="lazyload" style="max-width: 24px; height:auto; margin-top: -7px;">Note Frequencies
+                            </a>
+                            <a class="dropdown-item megalink dark:text-gray-300 flex justify-start" href="/producer-tools/compressor-visualiser">
+                                <img data-src="/images/compressor-icon.png" data-sizes="auto" class="lazyload" style="max-width: 24px; height:auto; margin-top: -7px;"> Compressor Visualiser
+                            </a>
+                            <a class="dropdown-item megalink dark:text-gray-300 flex justify-start" href="/producer-tools/bpm-counter">
+                                <img data-src="/images/bpm-counter.png"  data-sizes="auto" class="lazyload" style="max-width: 24px; height:auto; margin-top: -7px;"> BPM Counter
+                            </a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/about">About</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/contact">Contact</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/privacy">Privacy Policy</a>
+                            <a class="dropdown-item megalink dark:text-gray-300 " href="/terms">Terms of Service</a>
+                        </div>
+                        <div class="col-md-4 mb-4">
+                            <h4 class="mb-3 dark:text-gray-300 text-2xl">Top 10 Tunings</h4>
+                            <table class="table table-sm dark:text-gray-300">
+                                <tr>
+                                    <th>Tuning</th>
+                                    <th>Name</th>
+                                </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/eadgbe" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">EADGBE</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/eadgbe" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">Standard Guitar Tuning</a>
+                                        </td>
+                                    </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/dgcfad" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">DGCFAD</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/dgcfad" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">D Standard</a>
+                                        </td>
+                                    </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/facgce" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">FACGCE</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/facgce" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">F Major 9</a>
+                                        </td>
+                                    </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/dadfsad" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">DADF#AD</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/dadfsad" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">Open D</a>
+                                        </td>
+                                    </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/dadgad" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">DADGAD</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/dadgad" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">Modal D</a>
+                                        </td>
+                                    </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/cgcfad" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">CGCFAD</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/cgcfad" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">Drop C</a>
+                                        </td>
+                                    </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/bddddd" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">BDDDDD</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/bddddd" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">Iris</a>
+                                        </td>
+                                    </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/cgcggc" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">CGCGGC</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/cgcggc" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">Ben Howard</a>
+                                        </td>
+                                    </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/cgdgbd" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">CGDGBD</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/cgdgbd" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">Open G/C Add4</a>
+                                        </td>
+                                    </tr>
+                                                                    <tr>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/daeacse" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">DAEAC#E</a>
+                                        </td>
+                                        <td class="dark:border-b border-gray-500">
+                                            <a href="/daeacse" class="dropdown-item megalink dark:text-gray-300 nav_tag_tuning">Open A Add4</a>
+                                        </td>
+                                    </tr>
+                                                            </table>
+                        </div>
+                        <div class="col-md-4 mb-4">
+                            <h4 class="mb-3 dark:text-gray-300 text-2xl">Unique Tunings</h4>
+                            <table class="table table-sm dark:text-gray-300">
+                                <tr>
+                                    <th>Tuning</th>
+                                    <th>Name</th>
+                                </tr>
+                                <tr>
+                                    <td class="dark:border-b border-gray-500">
+                                        <a href="/violin-tuner" class="dropdown-item megalink dark:text-gray-300">
+                                            Violin Tuner
+                                        </a>
+                                    </td>
+                                    <td class="dark:border-b border-gray-500">
+                                        <a href="/violin-tuner" class="dropdown-item megalink dark:text-gray-300">
+                                            5 different sounds</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="dark:border-b border-gray-500">
+                                        <a href="/csfsbeadgbe" class="dropdown-item megalink dark:text-gray-300 ">C#F#BEADGBE</a>
+                                    </td>
+                                    <td class="dark:border-b border-gray-500">
+                                        <a href="/csfsbeadgbe" class="dropdown-item megalink dark:text-gray-300 ">9 String standard</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="dark:border-b border-gray-500">
+                                        <a href="/fsbeadgbe" class="dropdown-item megalink dark:text-gray-300 ">F#BEADGBE</a>
+                                    </td>
+                                    <td class="dark:border-b border-gray-500">
+                                        <a href="/fsbeadgbe" class="dropdown-item megalink dark:text-gray-300 ">8 String standard</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="dark:border-b border-gray-500">
+                                        <a href="/beadgbe" class="dropdown-item megalink dark:text-gray-300 ">BEADGBE</a>
+                                    </td>
+                                    <td class="dark:border-b border-gray-500">
+                                        <a href="/beadgbe" class="dropdown-item megalink dark:text-gray-300 ">7 String
+                                                                                           standard</a>
+                                    </td>
+                                </tr>
+                            </table>
+                            <a href="https://www.lemonsqueezyrecords.com/?utm_source=gtdb.org&utm_medium=website-megamenu&refUrl=http://www.gtdb.org/sounds/acoustic-guitar/440/A6.mp3" target="_blank" rel="noopener"><img data-src="/images/lemon-squeezy-records-ad-megamenu.jpg" data-sizes="auto" class="img-fluid lazyload" alt="Lemon Squeezy Records">
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+
+            <li class="nav-item ">
+                <a class="nav-link whitespace-nowrap" href="/tunings">All Tunings</a>
+            </li>
+
+            <li class="nav-item ">
+                <a class="nav-link whitespace-nowrap" href="/tuning/submit">Submit Tuning</a>
+            </li>
+
+            <li class="nav-item" title="Show a random tuning">
+                <a class="nav-link whitespace-nowrap" href="/random">
+                    <span class="">Random <i class="fad fa-random"></i></span>
+                </a>
+            </li>
+
+            <li class="nav-item ">
+                <a class="nav-link whitespace-nowrap" href="/guitar-tuner">
+                    <span class="">Tuners <i class="gtdb-guitar-tuner"></i></span>
+                </a>
+            </li>
+
+            <li class="nav-item ">
+                <a class="nav-link whitespace-nowrap" href="/violin-tuner">
+                    <span class="">Violin Tuner <i class="fad fa-violin"></i></span>
+                </a>
+            </li>
+
+            <li class="nav-item ">
+                <a class="nav-link whitespace-nowrap" href="/chord-sheets">
+                    <span class="">Chords <i class="fad fa-braille"></i></span>
+                </a>
+            </li>
+
+            <li class="nav-item ">
+                <a class="nav-link whitespace-nowrap" href="/scales">
+                    <span class="">Scales <i class="fa fa-wave-square"></i></span>
+                </a>
+            </li>
+
+            <li class="nav-item ">
+                <a class="nav-link whitespace-nowrap" href="/about">
+                    <span class="">About <i class="fa fa-question-circle"></i></span>
+                </a>
+            </li>
+
+
+            <li class="nav-item  dropdown">
+                <a class="nav-link dropdown-toggle username-dropdown" href="#" id="userdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="User dropdown menu">
+                    <i class="fa fa-user"></i> <b class="caret"></b>
+                </a>
+                <div class="dropdown-menu dropdown-menu-right dark:bg-gray-700" aria-labelledby="userdropdown">
+                    <a class="dropdown-item dark:text-gray-300" href="/dashboard">Dashboard</a>
+
+                                        <div class="dropdown-divider"></div>
+                    <a class="dropdown-item dark:text-gray-300" href="/contact">Contact</a>
+                                            <div class="dropdown-divider"></div>
+                        <a class="dropdown-item dark:text-gray-300" href="/login">Login</a>
+                        <a class="dropdown-item dark:text-gray-300" href="/register">Register</a>
+                                        <div class="dropdown-divider"></div>
+                    <a class="dropdown-item dark:text-gray-300" href="https://www.gtdb.org/privacy">Privacy</a>
+                    <a class="dropdown-item dark:text-gray-300" href="https://www.gtdb.org/terms">Terms</a>
+                </div>
+            </li>
+
+
+            <li class="nav-item ">
+                <a class="nav-link whitespace-nowrap" href="/contact" data-toggle="tooltip" data-placement="left" title="Suggestions, bugs, gripes, love??" aria-label="Contact us">
+                    <i class="fa fa-envelope"></i></a>
+            </li>
+
+            <li>
+                <!-- Dark Mode toggle -->
+                <button id="theme-toggle" type="button" class="hidden py-2 pt-2 sm:block text-gray-400 dark:text-gray-400 hover:text-gray-500 dark:hover:text-gray-300 rounded-lg text-sm p-1 mt-0 focus:outline-none" title="Toggle dark/light mode">
+                    <div class="flex justify-start">
+                        <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
+                        </svg>
+                        <svg id="theme-toggle-light-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" fill-rule="evenodd" clip-rule="evenodd"></path>
+                        </svg>
+                    </div>
+                </button>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+    </div>
+
+    <div class="max-w-7xl mx-auto px-2 dark:bg-gray-800 dark:text-gray-300">
+        <div class="flex px-0 sm:px-0 my-4">
+    <form action="/search" autocomplete="off" class="relative h-8 w-full" onsubmit="search_gtdb.disabled = true; return true;">
+        <div class="absolute inset-y-0 left-0 pl-2 flex items-center pointer-events-none search_link_pop_up">
+            <!-- Heroicon name: solid/search -->
+            <svg class="h-6 w-6 pt-1 text-gray-400 dark:text-gray-300 search_link_pop_up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"/>
+            </svg>
+        </div>
+        <input id="q" name="q" class="h-9 dark:text-gray-300 w-full pl-10 pr-10 py-3 border border-gray-300 dark:border-gray-600 leading-5 bg-white dark:bg-gray-700 placeholder-gray-500 dark:placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm autofill:bg-gray-500" value="" placeholder="Search" autocomplete="off" aria-label="Search for products" onfocus="let value = this.value; this.value = null; this.value=value" required autofocus>
+        <button type="submit" id="search_gtdb" class="absolute inset-y-0 right-0 pt-1 mr-2 disabled:opacity-25 text-gray-400 dark:text-gray-300 flex items-center sm:block sm:visible">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 search_link_pop_up" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" class="search_link_pop_up"/>
+            </svg>
+        </button>
+        <input type="hidden" name="q_type" value="">
+    </form>
+</div>
+<div class="flex justify-center search_results_wrap max-w-2xl mx-auto" id="search_results_wrap" style="display: none;">
+    <div class=" w-full flex justify-center search_link_pop_up">
+        <div class="relative max-w-7xl z-40 bg-gray-50 dark:bg-gray-700 p-4 w-full mt-1 z-[1120]">
+            <div class="flex justify-center flex-wrap max-h-screen overflow-auto pb-4" id="search_results">
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+                <div class="max-w-7xl mx-auto px-2 min-h-screen">
+            <div class="">
+                                    <div class="md:grid gap-8 grid-cols-12">
+                        <div class="col-span-8">
+                                                                <div class="d-flex justify-content-center flex-column" id="error_wrap">
+            <div class="error_code flex-fill">
+                404
+            </div>
+            <div class="error_divider">
+                <hr>
+            </div>
+            <div class="error_message">
+                Not Found
+            </div>
+
+        </div>
+        <div class="col-md-12 main-well">
+            <h1 class="text-4xl mb-4">Contact us</h1>
+            <form method="POST" action="/send_email" accept-charset="UTF-8" class="form-horizontal" role="form" enctype="multipart/form-data" onsubmit="sendEmail.disabled = true; return true;">
+                <input name="_token" value="" type="hidden">
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label>Name *</label>
+                            <input class="form-control border border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:shadow-sm dark:text-gray-300 dark:border-gray-500 dark:bg-gray-600 dark:placeholder:text-gray-400 shadow-sm" name="name" value="" type="text" required="">
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label>Email *</label>
+                            <input class="form-control border border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:shadow-sm dark:text-gray-300 dark:border-gray-500 dark:bg-gray-600 dark:placeholder:text-gray-400 shadow-sm" name="email" value="" type="email" required="">
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div  style="position: absolute;visibility: hidden;">
+                    <div class="form-group">
+                        <label>Confirmation Email *</label>
+                        <input class="form-control border border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:shadow-sm dark:text-gray-300 dark:border-gray-500 dark:bg-gray-600 dark:placeholder:text-gray-400 shadow-sm" name="confirmation_email" value="" type="text">
+                    </div>
+                </div>
+
+
+                <div style="display: inline-block">
+                    <div class="form-group" style="margin-top:20px;">
+                        <div class="my-2">Please choose an enquiry type *</div>
+                        <div data-toggle="buttons">
+
+
+                            <div class="btn-group" data-toggle="buttons">
+                                <label class="btn btn-dark" for="q156">
+                                    <input type="radio" id="q156" class="" name="type" value="Suggestion" required=""/> Suggestion <i class="fad fa-question-square"></i>
+                                </label>
+                                <label class="btn btn-dark" for="q157">
+                                    <input type="radio" id="q157" class="" name="type" value="Bug"  required=""/> Bug <i class="fad fa-spider-black-widow"></i>
+                                </label>
+                                <label class="btn btn-dark" for="q158">
+                                    <input type="radio" id="q158" class="" name="type" value="Gripe"  required=""/> Gripe <i class="fad fa-sad-cry"></i>
+                                </label>
+                                <label class="btn btn-dark" for="q159">
+                                    <input type="radio" id="q159" class="" name="type" value="Love"  required=""/> Love <i class="fad fa-heart"></i>
+                                </label>
+                            </div>
+
+
+                        </div>
+                        <div id="Personal" class="desc message-wrapper" style="display: none;">
+                            <input class="form-control require-if-active" id="personal1" placeholder="personal1" value="" type="text">
+                        </div>
+                        <div id="Wholesale" class="desc message-wrapper-input"  style="display: none;">
+                            <input class="form-control border border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:shadow-sm dark:text-gray-300 dark:border-gray-500 dark:bg-gray-600 dark:placeholder:text-gray-400 shadow-sm" id="wholesale" value="" type="text">
+                        </div>
+                        <div id="Corporate" class="desc" style="display: none;">
+                            <input class="form-control border border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:shadow-sm dark:text-gray-300 dark:border-gray-500 dark:bg-gray-600 dark:placeholder:text-gray-400 shadow-sm" id="corporate" value="" type="text">
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Subject *</label>
+                    <input class="form-control border border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:shadow-sm dark:text-gray-300 dark:border-gray-500 dark:bg-gray-600 dark:placeholder:text-gray-400 shadow-sm" name="subject" value="" type="text" required="">
+                </div>
+
+                <div class="form-group">
+                    <label>Message *</label>
+                    <textarea rows="4" class="form-control border border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:shadow-sm dark:text-gray-300 dark:border-gray-500 dark:bg-gray-600 dark:placeholder:text-gray-400 shadow-sm" placeholder="Enter your message here" name="message" value="" required=""></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label>Upload a file <span style="color:#ABABAB; font-style: italic; font-size: small;">(Supported file types: "jpg", "jpeg", "png", "gif", "pdf", "docx" and "doc")</span> <span style="color:red; font-style: italic; font-size: small;">max files 10</span></label>
+                    <input name="file[]" type="file" id="file" class="file-loading" data-show-upload="false" multiple="true" class="file-loading" value="0">
+                </div>
+
+                <!-- Text input-->
+                <div class="control-group">
+                    <label class="control-label" for="captcha">How many strings does a guitar have?</label>
+                    <div class="controls">
+                        <input id="captcha" name="captcha" type="text" placeholder="How many strings does a guitar have?" class="form-control border border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:shadow-sm dark:text-gray-300 dark:border-gray-500 dark:bg-gray-600 dark:placeholder:text-gray-400 shadow-sm" required="" maxlength="6">
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+
+                    <input class="btn btn-primary pull-right mt-3 float-right" value="Send Email" class="form-control border border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:shadow-sm dark:text-gray-300 dark:border-gray-500 dark:bg-gray-600 dark:placeholder:text-gray-400 shadow-sm" name="sendEmail" type="submit" style="padding: 20px 40px; font-size: x-large;">
+
+                </div>
+            </form>
+        </div>
+                        </div>
+
+                        <div class="col-span-4">
+                            <div class="row sticky-top">
+            <div class="col-12" id="layout_sidebar">
+                <div class="">
+                    <!-- Sidebar 2016 -->
+                    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6401028581815505" data-ad-slot="1904604784" data-ad-format="auto"
+                    ></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    <div class="d-flex justify-content-between">
+
+    <a id="btn-gtdb-share-reddit" class="btn btn-dark btn-gtdb-share" href="//www.reddit.com/submit"
+       onclick="window.location = '//www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"
+       target="_blank" aria-label="Share on Reddit" rel="noopener"><i class="fab fa-reddit"></i></a>
+
+    <a id="btn-gtdb-share-facebook" class="btn btn-dark btn-gtdb-share"
+       href="https://www.facebook.com/sharer/sharer.php"
+       onclick="window.location = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location); return false"
+       target="_blank" aria-label="Share on FaceBook" rel="noopener"><i class="fab fa-facebook-square"></i></a>
+
+    <a id="btn-gtdb-share-twitter" class="btn btn-dark btn-gtdb-share" href="https://twitter.com/share"
+       onclick="window.location = 'https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&via=twitterdev&related=twitterapi%2Ctwitter&hashtags=example%2Cdemo&text=custom%20share%20text' + encodeURIComponent(window.location); return false"
+       target="_blank" aria-label="Share on Twitter" rel="noopener"><i class="fab fa-twitter"></i></a>
+
+    <a id="btn-gtdb-share-tumblr" class="btn btn-dark btn-gtdb-share" href="https://tumblr.com/widgets/share/tool" onclick="window.location = 'http://tumblr.com/widgets/share/tool?canonicalUrl=' + encodeURIComponent(window.location); return false" target="_blank" aria-label="Share on Tumblr" rel="noopener"><i class="fab fa-tumblr"></i></a>
+
+</div>
+
+<a href="https://twitter.com/guitardb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @guitardb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+                </div>
+            </div>
+        </div>
+        
+
+                        </div>
+                    </div>
+                            </div>
+            <div class="grid sm:grid-cols-2 flex-wrap gap-8" id="gtdb_footer">
+
+    <div class="flex flex-col justify-between w-full gap-4 items-center p-8 dark:bg-gray-700 items-center bg-white dark:bg-gray-700 shadow-sm rounded border dark:border-gray-500 p-4">
+        <h2>1900+ Guitar Tunings</h2>
+        <a href="/tunings">
+            <img class="lazyload" src="/images/Featured_GTDB_Guitar_Tunings_DB.jpg" width="160" height="100" alt="Guitar Tunings Database">
+        </a>
+        <p class="text-center text-sm">
+            Guitar Tunings Database the home of 1900+ online guitar tunings
+        </p>
+        <p>
+            <a class="btn btn-primary" href="/tunings">Start Here »</a>
+        </p>
+    </div>
+
+    <div class="flex flex-col justify-between w-full gap-4 items-center p-8 dark:bg-gray-700 items-center bg-white dark:bg-gray-700 shadow-sm rounded border dark:border-gray-500 p-4">
+        <h2>
+            Wordpress Plugin
+        </h2>
+        <a href="http://wordpress.org/extend/plugins/guitar-tuner/">
+            <img class="lazyload" src="/images/Featured_Wordpress_Plugin.jpg" width="160" height="100" alt="Guitar Tunings Database" rel="noopener">
+        </a>
+        <p class="text-center text-sm">
+            Over 500 guitar tuners in a WordPress plugin.
+        </p>
+        <p>
+            <a class="btn btn-primary" href="https://wordpress.org/extend/plugins/guitar-tuner/" target="_blank" rel="noopener">Download »</a>
+        </p>
+    </div>
+
+</div>
+
+
+
+
+        </div>
+        <div class="w-full mx-auto px-2-fluid" id="footer-baseline">
+        <div id="copyright" class="max-w-7xl mx-auto px-2">
+            <div id="copyright" class="d-flex justify-content-between flex-wrap">
+                <a href="http://www.swaziweb.co.za" target="_blank" rel="noopener" class="flex justify-start">
+                    Site by SwaziWeb
+                    <img style="margin: -7px 2px 0;width: 27px;height: 27px;" src="/images/SwaziWeb-tiny.png" alt="Swazi Web Design"> © 2024 GTDB
+                </a>
+                <div id="lemon_footer">
+                    All audio by
+                    <a href="https://lemonsqueezyrecords.com" target="_blank" rel="noopener">Lemon Squeezy Records</a>
+                </div>
+                <div class="flex justify-end gap-2">
+                    <a href="https://twitter.com/guitardb" class="social-follow-link" target="_blank" rel="noopener" aria-label="Follow us on Twitter">
+                        <svg viewBox="0 0 24 24" aria-label="X" role="img" class="h-8 w-8"><g><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="currentColor"></path></g></svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- #app -->
+
+      <!-- Scripts -->
+
+<script src="https://www.gtdb.org/js/app.js"></script>
+
+<script>
+        (function() {
+        var gdprSection = document.querySelector(".gdpr");
+        var button = document.querySelector(".js-gdpr-ok");
+        if (localStorage.getItem('dontLoad') === null) {
+            gdprSection.classList.add('active');
+            button.addEventListener('click', function(event){
+                gdprSection.classList.remove('active')
+                localStorage.setItem('dontLoad', 'visited');
+            })
+        } else {
+            // console.log('visited is in LocalStorage')
+        }
+    })();
+    
+    $(".context").mark("", {
+        "acrossElements": true,
+        "separateWordSearch": false
+    });
+
+        $(document).ready(function () {
+        $.ajax({
+            type: 'GET',
+            url: '/give_me_my_csrf',
+            success: function (csrf) {
+                if (csrf) {
+                    // console.log("CSRF");
+                    var input = $("<input>")
+                        .attr("type", "hidden")
+                        .attr("name", "_token").val(csrf);
+                    $('form').append(input);
+                    $('meta[name="csrf-token"]').attr('content', csrf);
+                }
+            }
+        });
+    });
+    </script>
+<script>
+
+
+    // Disable the search input until the page is loaded, enable the input then focus it like a boi
+    $(window).on('load', function () {
+        $('#search').removeAttr('disabled');
+        $("#search");
+    });
+
+
+    $(document).ready(function () {
+        $(".megamenu").on("click", function (e) {
+            e.stopPropagation();
+        });
+    });
+
+</script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async
+            src="https://www.googletagmanager.com/gtag/js?id=UA-6059960-6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-6059960-6');
+    </script>
+
+
+<div class="flex justify-center z[60000]">
+    <div id="notifications" class="fixed bottom-2 grid gap-2 !z-[6000001]">
+    </div>
+</div>
+<script>
+    function notifyX(message, colour, delay = 2000) {
+
+        /* bg-green-500 bg-red-500 bg-blue-500 border-red-600 border-green-600 border-blue-600 text-red-200 text-green-200 text-blue-200 text-red-100 text-green-100 text-blue-100 */
+        const html = `<div id="notify_alert" class="pl-6 pr-8 py-4 rounded-lg max-w-2xl bg-${colour}-500 text-${colour}-100 notify_alert !z-50 border border-white dark:border-gray-600 shadow relative" role="alert">
+                        <div class="absolute right-2 top-0 close_notify cursor-pointer text-lg"><i class="fa fa-times"></i></div>
+                      <div class="font-bold">${message}</div>
+                    </div>`;
+
+        $('.notify_alert').remove();
+        setTimeout(function () {
+            $(html).appendTo('#notifications').fadeIn(400).delay(delay).slideUp(300, function () {
+                $(this).remove();
+            });
+        }, 100);
+    }
+    $(document).on('click', '.close_notify', function () {
+        $('.notify_alert').remove();
+    });
+</script>
+
+<script src="/js/bootstrap-notify.min.js"></script>
+                
+
+    <style>
+        div#error_wrap div {
+            text-align: center;
+        }
+        div#error_wrap {
+            font-family: Oswald, sans-serif!important;
+            font-size: 50px!important;
+            font-weight: 200!important;
+            padding: 20% 0!important;
+            color: #7b7b7b!important;
+        }
+        /*.error_divider {*/
+        /*    position: relative;*/
+        /*    top: -12px;*/
+        /*    font-size: 60px;*/
+        /*    padding: 0 2%;*/
+        /*}*/
+    </style>
+    <style>
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Oswald', sans-serif;
+        /*font-weight: bold;*/
+        /*margin-bottom: 5px;*/
+        /*    text-transform: uppercase;*/
+        /*font-weight: 300;*/
+    }
+</style>
+
+
+
+<script>
+
+    let cookie_gtdb_onebyone = getCookie('gtdb_onebyone');
+    if (cookie_gtdb_onebyone == 1) {
+        $('#one_by_one_tuner').addClass('gtdb_active')
+    }
+
+    // bootstrap 4 tooltips
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip({
+            delay: {show: 500, hide: 0}
+        });
+    });
+
+    $(window).on('resize', function (event) {
+        var windowSize = $(window).width();
+        if (windowSize < 768) {
+            $('.dropdown-submenu .test').on("click", function (e) {
+                $(this).next('ul').toggle();
+                e.stopPropagation();
+                e.preventDefault();
+            });
+        }
+    });
+    $(document).ready(function() {
+        $(".learn-more").click(function() {
+            $(this).next(".help-text").toggle();
+        });
+    });
+</script>
+<script>
+    // Check that service workers are registered
+        if ('serviceWorker' in navigator) {
+        // Use the window load event to keep the page load performant
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/sw.js');
+        });
+    }
+    
+    // Popovers
+    $(function () {
+        $('[data-toggle="popover"]').popover()
+    });
+    // $("html").on("mouseup", function (e) {
+    //     var l = $(e.target);
+    //     if (l[0].className.indexOf("popover") == -1) {
+    //         $(".popover").each(function () {
+    //             $(this).popover("hide");
+    //         });
+    //     }
+    // });
+
+    // move auto ad
+    // if (document.querySelector('.google-auto-placed')) {
+    //     document.body.appendChild(div);
+    //     document.querySelector('.google-auto-placed-after').appendChild(
+    //         document.querySelector('.google-auto-placed')
+    //     );
+    // }
+
+
+    alertify.defaults = {
+
+        // notifier defaults
+        notifier: {
+            // auto-dismiss wait time (in seconds)
+            delay: 3,
+            // default position
+            position: 'bottom-right',
+            // adds a close button to notifier messages
+            closeButton: false,
+        },
+
+    };
+
+    // replace url parameter from url
+    // history.replaceState(null, null, location.href.replace(/[\?&]variation=[^&]+/, '').replace(/^&/, '?'));
+
+    // var ad = document.querySelector(".google-auto-placed"); //Can be replaced any identifying trait depending on the actual Ad Div
+    // ad.innerHTML = "";
+    // csrf token
+</script>
+
+<style>
+    .alertify-notifier {
+        z-index: 9999999999 !important;
+    }
+</style>
+
+
+<style>
+    .lity-active body {
+        overflow: hidden;
+    }
+
+    .lity-inline .lity-content > * {
+        max-height: none !important;
+    }
+
+    .lity-inline .lity-wrap {
+        overflow: auto;
+    }
+
+    .lity-inline .lity-content {
+        margin: 20px 0;
+    }
+</style>
+
+<pre style="display: none;">
+            ___________
+           q o       o p
+           q o   G   o p
+           d o   T   o b
+           q o   D   o p
+           q o   B   o p
+           d o       o b
+            \!       !/
+            |=========|
+            |!!!!!!!!!|
+            |!!!!!!!!!|
+            |!!!!!!!!!|              ____    ______  ____    ____
+            |!!!!!!!!!|             /\  _`\ /\__  _\/\  _`\ /\  _`\
+            |!!!!!!!!!|             \ \ \L\_\/_/\ \/\ \ \/\ \ \ \L\ \
+           _|!!!!!!!!!|__            \ \ \L_L  \ \ \ \ \ \ \ \ \  _ <'
+         .+=|!!!!!!!!!|--.`.          \ \ \/, \ \ \ \ \ \ \_\ \ \ \L\ \
+       .'   |!!!!!!!!!|   `.\          \ \____/  \ \_\ \ \____/\ \____/
+      /     !=========!     \\          \/___/    \/_/  \/___/  \/___/
+      |    /|!!!!!!!!!|\    ||
+       \   \!!!!!!!!!!!/   //
+        )   `========='   ((
+      .'    !!!!!!!!!!!    `..
+     /      !!!!!!!!!!!      \\
+    |       !!!!!!!!!!!       ||
+    |       !!!!!!!!!!!       ||
+    |       !!!!!!!!!!!       ||
+     \     =============     //
+ hjw  `.    o987654321o    .;'
+ & warm `-._____________.-'
+    whisky
+    </pre>
+</body>
+</html>
